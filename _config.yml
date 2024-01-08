@@ -6,4 +6,4 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - landing.md
+  - readme.md
